@@ -32,7 +32,7 @@ Use zscore of to remove outliers
 import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
-
-C:\Users\admin\exno1\image.png
+# OUTPUT
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2024-02-26 214231.png"
 # Result
           <<include your Result here>>
